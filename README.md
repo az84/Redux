@@ -4,7 +4,7 @@
 
 The open source JavaScript library Redux remains the industry standard for managing complex state in a large-scale React application. The challenge is to refactor the e-commerce platform so that it uses [Redux](https://redux.js.org/).
 
-Link to the deployed application hosted on Heroku:[Redux Shop](https://still-caverns-89020.herokuapp.com/)
+Link to the deployed application hosted on Heroku: [Redux Shop](https://still-caverns-89020.herokuapp.com/)
 
 
 ## User Story
