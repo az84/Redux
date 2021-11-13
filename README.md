@@ -4,6 +4,8 @@
 
 The open source JavaScript library Redux remains the industry standard for managing complex state in a large-scale React application. The challenge is to refactor the e-commerce platform so that it uses [Redux](https://redux.js.org/).
 
+Link to the deployed application hosted on Heroku: [Redux Shop](https://still-caverns-89020.herokuapp.com/)
+
 
 ## User Story
 
@@ -37,3 +39,6 @@ Finally, the user can check out by going to their shopping cart, as shown in the
 
 ![The user checks out by going to their shopping cart.](./Assets/22-state-homework-demo-03.gif)
 
+## Contact
+- https://github.com/az84
+- https://www.linkedin.com/in/alina-z-092703199/
