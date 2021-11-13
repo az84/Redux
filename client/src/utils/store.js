@@ -1,6 +1,4 @@
-import {reduxStore} from 'redux';
-import reducer from './reducers';
+import { store } from 'redux';
+import reducers from './reducers';
 
-const store = reduxStore(reducer)
-;
-export default store;
+export default store(reducers);
