@@ -101,6 +101,6 @@ const stateRed = {
   }
 };
 
-export function useProductReducer(initialState) {
-  return useReducer(reducer, initialState);
+export function useProductReducer(stateRed) {
+  return useReducer(reducer, stateRed);
 }
